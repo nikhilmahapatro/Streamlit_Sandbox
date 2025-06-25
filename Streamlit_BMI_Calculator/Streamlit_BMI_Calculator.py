@@ -21,3 +21,5 @@ st.write("> BMI between 25 to 29.9   --> Overweight")
 st.write("> BMI 30 or greater        --> Obesity")
 
 st.image(r"https://westmedical.com/wp-content/uploads/2022/12/3932e867ae54709fb3d2b4f4ebebca7e6f8f6ff4-1993x1199-1.jpg")
+
+
